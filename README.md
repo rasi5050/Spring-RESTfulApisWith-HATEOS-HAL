@@ -11,13 +11,14 @@ Java + Spring Boot
 
 
 ## Objectives
-nonrest — Simple Spring MVC app with no hypermedia
 
-rest — Spring MVC + Spring HATEOAS app with HAL representations of each resource
+Create a nonREST API's — Simple Spring MVC app with no hypermedia
 
-evolution — REST app where a field is evolved but old data is retained for backward compatibility
+Make the API's RESTful — Spring MVC + Spring HATEOAS app with HAL representations of each resource
 
-links — REST app where conditional links are used to signal valid state changes to clients
+Introduce backward compactability — REST app where a field is evolved but old data is retained for backward compatibility
+
+Add conditional link in responses. — REST app where conditional links are used to signal valid state changes to clients
 
 ## How to run the program?
 
