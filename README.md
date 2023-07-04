@@ -24,6 +24,7 @@ links — REST app where conditional links are used to signal valid state change
 `$ git clone https://github.com/rasi5050/Spring-RESTfulApisWith-HATEOS-HAL`
 
 `$ cd Spring-RESTfulApisWith-HATEOS-HAL`
+
 `$  ./mvnw clean spring-boot:run`
 
 ## Endpoints
