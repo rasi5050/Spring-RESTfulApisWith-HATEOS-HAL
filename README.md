@@ -2,7 +2,7 @@
 This is a hobby project(6) to learn Java-Spring Boot and RESTful-API's conforming to the standards of HATEOS by creating `Payroll+Orders app`.
 
 I built REST API's using Spring MVC + Spring HATEOAS app with HAL representations of each resource.
-This project is based on [Building REST services with Spring course]([https://spring.academy/courses/building-a-rest-api-with-spring-boot](https://spring.io/guides/tutorials/rest/))
+This project is based on [Building REST services with Spring course](https://spring.io/guides/tutorials/rest/)
 
 
 ## Whats used?
